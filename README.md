@@ -1,2 +1,3 @@
 # Find_Your_Hat
-SWO Week 2
+
+Proyecto de la segunda semana en SoftwareOne (cf. https://www.codecademy.com/practice/projects/find-your-hat)
